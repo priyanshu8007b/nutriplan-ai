@@ -5,6 +5,30 @@
 NutriPlan AI generates customized weekly meal plans by calculating each user's actual calorie and protein needs from body stats, then optimizing meal selection across multiple constraints (budget, allergens, preferences, variety) with built-in nutritional guardrails.
 
 ---
+## 📸 Screenshots
+
+### Personalized Input Form
+Capture body stats, dietary preferences, allergens, protein goal, and budget in one clean interface.
+
+![Input Form](screenshots/01-form.png)
+
+### Generated Meal Plan
+BMR-driven nutrition profile with 5-meal day cards including reasoning for each selection.
+
+![Generated Plan](screenshots/02-plan.png)
+
+### Guardrails in Action
+The system automatically flags days where calories, protein, or budget deviate from targets.
+
+![Guardrails](screenshots/03-guardrails.png)
+
+### Auto-Generated API Documentation
+Interactive Swagger UI powered by FastAPI's OpenAPI integration.
+
+![API Docs](screenshots/04-api.png)
+
+---
+
 
 ## ✨ Features
 
